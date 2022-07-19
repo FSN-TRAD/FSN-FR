@@ -8,7 +8,7 @@ Patchs créés pour fonctionner avec la version **0.9.1** de Fate/Stay Night \[R
 https://github.com/FSN-TRAD/FSN-FR/releases
 
 **Site web**
-https://fsn-trad.github.io/website/index.html
+https://fsn-trad.github.io
 
 **Discord**
 https://discord.gg/zGPcfCY
