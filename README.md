@@ -4,7 +4,7 @@
 **UBW est en cours de relecture.**  
 
 ## Informations
-Patchs créés pour fonctionner avec Fate/stay night \[Réalta Nua] Ultimate Édition :  
+Patch créé pour fonctionner avec Fate/stay night \[Réalta Nua] Ultimate Édition :  
 https://mega.nz/folder/DMsXCIoD#ubkrOC40vxEJDAslcnScow
 
 ![image](https://user-images.githubusercontent.com/75610214/147580211-b1e8a691-17a9-42d5-9984-8129ab4f842e.png)
