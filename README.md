@@ -15,7 +15,7 @@ https://fsn-trad.github.io
 **Discord**
 https://discord.gg/zGPcfCY
 
-**Section release pour les téléchargements**
+**Téléchargement du patch**
 https://github.com/FSN-TRAD/FSN-FR/releases
 
 **Tutoriel d'installation** (Windows, Android)  
