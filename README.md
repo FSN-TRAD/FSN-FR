@@ -1,7 +1,7 @@
 # Fate/stay night \[Réalta Nua] Traduction Française
 
 ## Statut
-**UBW est en cours de relecture.**  
+**Les routes Fate et UBW ont été publiées, nous travaillons actuellement à leur amélioration.**  
 
 ## Informations
 Patch français créé pour fonctionner avec Fate/stay night \[Réalta Nua] Ultimate Édition :  
